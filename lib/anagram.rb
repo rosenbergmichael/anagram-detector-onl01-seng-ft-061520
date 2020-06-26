@@ -13,8 +13,4 @@ attr_accessor :words
     end 
    end 
 
-#def match(array)
-#    array.select {|x| x.split("").sort == @name.split("").sort}
-#  end   
-  
 end   
