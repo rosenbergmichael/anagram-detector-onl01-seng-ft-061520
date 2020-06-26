@@ -8,7 +8,7 @@ attr_accessor :words
   end 
   
   def match(array)
-    array.m
+    array.select 
   
   
 end   
