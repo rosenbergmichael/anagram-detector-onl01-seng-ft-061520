@@ -7,7 +7,8 @@ attr_accessor :words
     @words = word 
   end 
   
-  def match 
+  def match(array)
+    array.m
   
   
 end   
